@@ -23,6 +23,12 @@ public class DeleteOperationForTwoStrings {
         System.out.println(otherAnswer("sea","ate"));
     }
 
+    /**
+     * error
+     * @param word1
+     * @param word2
+     * @return
+     */
     public static int minDistance(String word1, String word2) {
 
 
